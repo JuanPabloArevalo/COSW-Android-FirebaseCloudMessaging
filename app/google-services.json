@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "392179852562",
+    "firebase_url": "https://coswlab12.firebaseio.com",
+    "project_id": "coswlab12",
+    "storage_bucket": "coswlab12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392179852562:android:938233aa5d6e6b56",
+        "android_client_info": {
+          "package_name": "cosw.eci.edu.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392179852562-lucah44ufsi8knrpug287r00uu39bqig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEI5eE7pU2VOf2ECK9XzG9sHTfYiJvKPo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
