@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_marginBottom="16dp"
-        android:src="@drawable/firebase_lockup_400" />
+        android:src="@drawable/logo_dev" />
 
     <TextView
         android:id="@+id/informationTextView"
